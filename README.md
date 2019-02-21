@@ -1,10 +1,13 @@
 # RedMachineTest
 class GameConfig
   It contains settings fields for game
+  
 class Team
   This class includes two field: name and Color of team;
+  
 class Circle
   This class decribes circle in game
+  
 class SavedState 
   It used to store data about saved state of simulation.
 
